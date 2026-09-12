@@ -10,11 +10,11 @@ Students assemble physical models of inner-city light-rail compute carts, design
 
 ## Scope and site limitations
 
-This program track applies only to Portsmouth PACE Center classroom activities and to pre-approved partner sites specifically authorized for supervised student access. It does not authorize entry onto active rail property, public right-of-way, or any corridor segment lacking documented partner approval, instructor supervision, and same-day site access clearance.
+This program track applies only to Portsmouth PACE Center classroom activities and to pre-approved partner sites specifically authorized for supervised student access. Fieldwork may occur only inside partner-controlled observation zones on inactive spur segments where access has been formally granted for the scheduled visit. It does not authorize entry onto active rail property or any corridor segment lacking documented partner approval, instructor supervision, and same-day site access clearance.
 
 ## Field component
 
-Controlled, supervised observation walks along designated non-active spurs give students firsthand practice in data collection, environmental sampling, and safety auditing.
+Controlled, supervised observation walks within designated partner-approved observation zones on non-active spurs give students firsthand practice in data collection, environmental sampling, and safety auditing.
 
 Field access procedure:
 
