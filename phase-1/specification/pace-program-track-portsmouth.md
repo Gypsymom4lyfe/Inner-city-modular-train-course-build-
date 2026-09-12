@@ -6,11 +6,11 @@ Hands-on model fabrication, physical security, and environmental monitoring.
 
 ## Project deliverable
 
-Students assemble physical models of inner-city light-rail compute carts, designing miniature enclosures that respect physical clearance dimensions and zero-entry security principles.
+Students assemble physical models of inner-city light-rail compute carts, designing miniature enclosures that respect physical clearance dimensions and zero-entry security principles, meaning no exposed wireless or public-access entry points are left enabled on the cart.
 
 ## Field component
 
-Controlled, supervised observation walks along designated non-active spurs to practice data collection, environmental sampling, and safety auditing firsthand.
+Controlled, supervised observation walks along designated non-active spurs to practice data collection, environmental sampling, and safety auditing firsthand. Eligible spurs must be preapproved by program staff, confirmed as inactive for student use windows, separated from active rail operations, and reviewed against local site safety rules before each visit.
 
 ## Program framework
 

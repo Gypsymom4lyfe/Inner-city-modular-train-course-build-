@@ -18,4 +18,4 @@ This baseline assumes a 12,000 mm bidirectional pod envelope, 2,900 mm maximum b
 
 ## Program extension
 
-This repository also includes a Portsmouth PACE Center curriculum track that adapts the inner-city rail compute cart concept into a hands-on education program centered on model fabrication, physical security, and environmental monitoring.
+This repository also includes a Portsmouth PACE Center curriculum track that adapts the inner-city rail compute cart concept into a hands-on education program centered on model fabrication, physical security, and environmental monitoring. See `/phase-1/specification/pace-program-track-portsmouth.md` for the full framework.
