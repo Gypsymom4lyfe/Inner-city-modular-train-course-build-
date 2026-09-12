@@ -8,6 +8,10 @@ Hands-on model fabrication, physical security, and environmental monitoring.
 
 Students assemble physical models of inner-city light-rail compute carts, designing miniature enclosures that respect physical clearance dimensions and zero-entry security principles, meaning no exposed wireless or public-access entry points are left enabled on the cart.
 
+## Scope and site limitations
+
+This program track applies only to Portsmouth PACE Center classroom activities and to pre-approved partner sites specifically authorized for supervised student access. It does not authorize entry onto active rail property, public right-of-way, or any corridor segment lacking documented partner approval, instructor supervision, and same-day site access clearance.
+
 ## Field component
 
 Controlled, supervised observation walks along designated non-active spurs give students firsthand practice in data collection, environmental sampling, and safety auditing.
