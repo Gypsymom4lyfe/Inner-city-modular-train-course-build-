@@ -10,7 +10,7 @@ Students assemble physical models of inner-city light-rail compute carts, design
 
 ## Field component
 
-Controlled, supervised observation walks along designated non-active spurs to practice data collection, environmental sampling, and safety auditing firsthand. Eligible spurs must be preapproved by the PACE Center instructor and the supervising site partner, with approval documented in the field plan before any visit. Inactivity and separation from active rail operations must be verified through current site access confirmation, visual boundary checks, and a same-day safety briefing reviewed against local site rules before students enter the corridor.
+Controlled, supervised observation walks along designated non-active spurs to practice data collection, environmental sampling, and safety auditing firsthand. Eligible spurs must be preapproved by the PACE Center instructor and the supervising site partner, with both reviewers signing the program field access log and the visit-specific field plan before any visit. Inactivity and separation from active rail operations must be verified by the supervising site partner, then recorded by the instructor in the same field access log using current site access confirmation, visual boundary checks, and a same-day safety briefing reviewed against local site rules before students enter the corridor.
 
 ## Program framework
 
@@ -56,8 +56,8 @@ A project-based curriculum framework for the Portsmouth Advanced Career Educatio
 
 | Phase | Focus Area | Student Milestone | Acceptance Criteria |
 | --- | --- | --- | --- |
-| Weeks 1–2 | Blueprint & Spec Analysis | Review physical dimensions, safety clearances, and power budgets for the modular compute cart. | Students submit a reviewed dimension sheet, clearance checklist, and preliminary power budget. |
-| Weeks 3–5 | Fabrication & Assembly | Cut, weld, and frame the physical housing and internal mounting rails. | The chassis is assembled to planned dimensions and passes instructor inspection for fit, fastening, and structural completeness. |
-| Weeks 6–7 | Hardened Integration | Install power distribution components, wire hardwired diagnostic links, and lock down physical security ports. | The cart powers safely on bench supply, exposes only approved hardwired interfaces, and shows tamper-evident sealing on access points. |
-| Weeks 8–9 | Sensor Deployment & Testing | Bench-test power stability, mount environmental sensors, and run baseline data captures. | Students produce a baseline sensor log, confirm stable readings, and complete a documented field-readiness check. |
-| Week 10 | Final Presentation | Demonstrate the functional cart model, review physical security protocols, and present field data logs. | Teams present the cart, explain security controls, and deliver the site assessment map with supporting environmental data. |
+| Weeks 1–2 | Blueprint & Spec Analysis | Review physical dimensions, safety clearances, and power budgets for the modular compute cart. | Students submit a reviewed dimension sheet, a completed clearance checklist, and a preliminary power budget with all planned loads accounted for. |
+| Weeks 3–5 | Fabrication & Assembly | Cut, weld, and frame the physical housing and internal mounting rails. | The chassis stays within the documented target dimensions, all mounting rails are installed, and the instructor signs off on the fabrication checklist with no incomplete structural items. |
+| Weeks 6–7 | Hardened Integration | Install power distribution components, wire hardwired diagnostic links, and lock down physical security ports. | The cart completes a 15-minute powered bench run without wiring faults, exposes only approved hardwired interfaces, and every access point carries a documented tamper-evident seal. |
+| Weeks 8–9 | Sensor Deployment & Testing | Bench-test power stability, mount environmental sensors, and run baseline data captures. | Students produce a baseline sensor log with readings from each installed sensor, collect at least one complete test interval per sensor, and complete the field-readiness checklist. |
+| Week 10 | Final Presentation | Demonstrate the functional cart model, review physical security protocols, and present field data logs. | Teams present the assembled cart, submit the site assessment map and environmental log, and complete the final presentation rubric approved by the instructor. |
