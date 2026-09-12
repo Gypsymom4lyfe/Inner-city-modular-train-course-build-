@@ -10,7 +10,14 @@ Students assemble physical models of inner-city light-rail compute carts, design
 
 ## Field component
 
-Controlled, supervised observation walks along designated non-active spurs to practice data collection, environmental sampling, and safety auditing firsthand. Eligible spurs must be preapproved by the PACE Center instructor and the supervising site partner, with both reviewers signing the program field access log and the visit-specific field plan before any visit. Inactivity and separation from active rail operations must be verified by the supervising site partner, then recorded by the instructor in the same field access log using current site access confirmation, visual boundary checks, and a same-day safety briefing reviewed against local site rules before students enter the corridor.
+Controlled, supervised observation walks along designated non-active spurs give students firsthand practice in data collection, environmental sampling, and safety auditing.
+
+Field access procedure:
+
+1. The supervising site partner confirms the spur is inactive for the student access window and separated from active rail operations.
+2. The PACE Center instructor performs visual boundary checks and reviews local site safety rules with the site partner.
+3. The site partner and instructor sign the visit-specific field plan and the program field access log before students enter the corridor.
+4. The instructor delivers and records the same-day safety briefing in the field access log before the observation walk begins.
 
 ## Program framework
 
