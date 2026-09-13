@@ -5,6 +5,7 @@ Phase 1 repository package for the bidirectional inner-city data center rail pod
 ## Deliverables
 
 - `/phase-1/specification/mechanical-spatial-design-spec.md` — envelope, gauge, symmetry, and layout assumptions.
+- `/phase-1/specification/student-safety-operational-protocol-briefing.md` — mandatory student safety acknowledgment and operating agreement for PACE fabrication, wiring, and fieldwork activities.
 - `/phase-1/cad/inner_city_pod_outer_shell.step` — simplified STEP model of the low-profile bidirectional shell.
 - `/phase-1/cad/inner_city_pod_frame_skeleton.step` — simplified STEP model of the frame, cross-members, battery pan, and cassette support structure.
 - `/phase-1/cad/inner_city_pod_phase1_assembly.step` — combined Phase 1 assembly.
